@@ -84,7 +84,7 @@ Avant d'exécuter le script, assurez-vous que les éléments suivants sont insta
 
 3. **Consultez le fichier CSV :**
 
-   Après l'exécution du script, un fichier CSV sera généré (nommé `outputs.csv` par exemple) contenant les résultats de l'analyse.
+   Après l'exécution du script, un fichier CSV sera généré (nommé `results.csv` par exemple) contenant les résultats de l'analyse.
 
 ## Contribuer
 
